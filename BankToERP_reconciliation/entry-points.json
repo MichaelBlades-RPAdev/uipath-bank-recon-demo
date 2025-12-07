@@ -1,0 +1,15 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main_BankToERP.xaml",
+      "uniqueId": "06fe48c7-1591-4ebf-b147-ee89f1715781",
+      "type": "process"
+    },
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "2173965d-32f3-4a7e-a40d-252544e055e8",
+      "type": "process"
+    }
+  ]
+}

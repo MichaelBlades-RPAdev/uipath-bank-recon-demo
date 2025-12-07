@@ -1,0 +1,6 @@
+{
+  "Name": "BankToERP_Reconciliation",
+  "ProjectType": "Process",
+  "Description": "Daily bank statement to ERP payment reconciliation demo robot",
+  "MainFile": "Main_BankToERP.xaml"
+}
